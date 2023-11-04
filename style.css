@@ -49,6 +49,8 @@ form .display input{
 form input.equal{
     width: 145px;
     background-color: transparent;
+    color: #33ffd8;
+  
 }
 
 
